@@ -1,0 +1,6 @@
+@_04.AdminUserWebAPI_HostAddress = http://localhost:5173
+
+GET {{_04.AdminUserWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
